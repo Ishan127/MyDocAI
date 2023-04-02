@@ -5,6 +5,6 @@ Presentation- https://docs.google.com/presentation/d/19jdaFXVDxscyNSzm5cfuPBEQJO
 
 Website Tutorial Video - https://drive.google.com/file/d/1l7H67y0MIqRoDk3bAKPzDbt8eXJHf_9V/view?usp=sharing
 
-ML Tutorial - https://drive.google.com/file/d/1hXyY1qEotqiZxAu79bx0f1GxJsvMi4xd/view?usp=sharing
+ML Tutorial - https://photos.app.goo.gl/UQ1qxTSE9UwgHvuZ8
 
 UI Tutorial - https://drive.google.com/file/d/1bHyge9s0J3nzfFNhJpkJ5a7SLkmkgU_x/view?usp=sharing
